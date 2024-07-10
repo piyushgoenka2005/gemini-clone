@@ -7,12 +7,13 @@ Welcome to the Gemini Clone repository! This project is a fully responsive web a
 - **Responsive Design**: Optimized for desktops, tablets, and mobile devices to ensure a consistent user experience.
 - **Modern UI**: Crafted using advanced CSS frameworks and design principles to closely mimic the Gemini website's aesthetics.
 - **Interactive Elements**: Includes interactive components such as detailed product pages, smooth scrolling effects, and dynamic charts.
-- **Dynamic Content**: Powered by React JS to dynamically load content and enhance user interaction.
+- **Dynamic Content**: Powered by React and Vite to dynamically load content and enhance user interaction.
 - **Cross-browser Compatibility**: Tested on major browsers to ensure compatibility and performance.
 
 ## Technologies Used
 
-- **React JS**: For building a dynamic and responsive user interface.
+- **React**: For building a dynamic and responsive user interface.
+- **Vite**: For fast and efficient development and build process.
 - **HTML5**: For the structure and layout of the application.
 - **CSS3**: For styling and ensuring responsiveness across devices.
 
@@ -32,13 +33,18 @@ Welcome to the Gemini Clone repository! This project is a fully responsive web a
    ```
 4. **Start the Development Server**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Contributing
 
 Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ---
 
-Feel free to customize the above description to better match your project's specifics and personal style!
+### 1-Line Description
+A fully responsive web application clone of the Gemini website, built with React and Vite.
