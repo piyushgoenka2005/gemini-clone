@@ -20,7 +20,7 @@ Welcome to the Gemini Clone repository! This project is a fully responsive web a
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/gemini-clone.git
+   git clone https://github.com/piyushgoenka2005/gemini-clone.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
