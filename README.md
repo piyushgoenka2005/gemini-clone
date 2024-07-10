@@ -40,10 +40,6 @@ Welcome to the Gemini Clone repository! This project is a fully responsive web a
 
 Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### 1-Line Description
